@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Counter App</string>
+    <string name="reset_button">RESET</string>
+    <string name="Instr">INSTRUCTIONS</string>
+    <string name="instr">Player 1 controls increase button\nPlayer 2 controls decrease button\nIf counter reaches 10, Player 1 wins and if reaches 0, player 2 wins</string>
+</resources>
